@@ -8,19 +8,19 @@ Develop a responsive website for the Mario Totzek Group, showcasing its four mai
 Built by experienced developers, it takes care of much of the hassle of Web development. 
 "CRUD" stands for Create, Read, Update, and Delete, and it's a common pattern for managing data in applications. Below is a simple implementation of CRUD operations in a Django application.**
 
-**I used a template for admin panel. The admin panel has: account, authentication & authorization, category, document_upload, token blacklist**
+###**I used a template for admin panel. The admin panel has: account, authentication & authorization, category, document_upload, token blacklist**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 00 50 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/31b2374a-7177-4ed9-ba5b-09fde7182a53">
 
-**You can registrate users** 
+###**You can registrate users** 
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 19 45" src="https://github.com/Ibrmva/germany-project/assets/90143818/70c37928-e750-4577-9fe5-f4b65c5c8b76">
 
-**The "Category" has 4 categories: Financial Services, Property, Recruitment.**
+###**The "Category" has 4 categories: Financial Services, Property, Recruitment.**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 01 34" src="https://github.com/Ibrmva/germany-project/assets/90143818/ecb08027-d751-4a27-8806-b0c31e3e438d">
 
-**And also we can create a subcategory, for example:**
+###**And also we can create a subcategory, for example:**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 00 58 22" src="https://github.com/Ibrmva/germany-project/assets/90143818/690e6ca8-0616-4e5a-bb5f-153af325b198">
 
@@ -33,8 +33,8 @@ Built by experienced developers, it takes care of much of the hassle of Web deve
 
 <img width="663" alt="Screenshot 2024-06-04 at 01 17 48" src="https://github.com/Ibrmva/germany-project/assets/90143818/4630c9d2-da91-47e7-a253-f7a16604e8e5">
 
-Also you can add blacklisted token:
+<img width="1141" alt="Screenshot 2024-06-04 at 01 18 53" src="https://github.com/Ibrmva/germany-project/assets/90143818/6ff12db4-e622-4c03-b329-387d9c504e68">
+
+### **Also you can add blacklisted token:**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 23 34" src="https://github.com/Ibrmva/germany-project/assets/90143818/6691d6a7-cd09-4ade-a8a5-0b653fecc60a">
-
-<img width="1141" alt="Screenshot 2024-06-04 at 01 18 53" src="https://github.com/Ibrmva/germany-project/assets/90143818/6ff12db4-e622-4c03-b329-387d9c504e68">
