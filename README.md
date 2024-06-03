@@ -8,19 +8,19 @@ Develop a responsive website for the Mario Totzek Group, showcasing its four mai
 Built by experienced developers, it takes care of much of the hassle of Web development. 
 "CRUD" stands for Create, Read, Update, and Delete, and it's a common pattern for managing data in applications. Below is a simple implementation of CRUD operations in a Django application.**
 
-###**I used a template for admin panel. The admin panel has: account, authentication & authorization, category, document_upload, token blacklist**
+### **I used a template for admin panel. The admin panel has: account, authentication & authorization, category, document_upload, token blacklist**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 00 50 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/31b2374a-7177-4ed9-ba5b-09fde7182a53">
 
-###**You can registrate users** 
+### **You can registrate users** 
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 19 45" src="https://github.com/Ibrmva/germany-project/assets/90143818/70c37928-e750-4577-9fe5-f4b65c5c8b76">
 
-###**The "Category" has 4 categories: Financial Services, Property, Recruitment.**
+### **The "Category" has 4 categories: Financial Services, Property, Recruitment.**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 01 34" src="https://github.com/Ibrmva/germany-project/assets/90143818/ecb08027-d751-4a27-8806-b0c31e3e438d">
 
-###**And also we can create a subcategory, for example:**
+### **And also we can create a subcategory, for example:**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 00 58 22" src="https://github.com/Ibrmva/germany-project/assets/90143818/690e6ca8-0616-4e5a-bb5f-153af325b198">
 
