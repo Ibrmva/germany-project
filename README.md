@@ -5,7 +5,8 @@ Develop a responsive website for the Mario Totzek Group, showcasing its four mai
 ### **Framework: Django**
 
 **Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-Built by experienced developers, it takes care of much of the hassle of Web development**
+Built by experienced developers, it takes care of much of the hassle of Web development. 
+"CRUD" stands for Create, Read, Update, and Delete, and it's a common pattern for managing data in applications. Below is a simple implementation of CRUD operations in a Django application.**
 
 **I used a template for admin panel. The admin panel has: account, authentication & authorization, category, document_upload, token blacklist**
 
