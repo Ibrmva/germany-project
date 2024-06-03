@@ -1,6 +1,8 @@
 # germany-project
+Goal/s:
+Develop a responsive website for the Mario Totzek Group, showcasing its four main business areas: financial services, tourism, property, and recruitment. The website should feature a modern design with easy navigation, highlighting the group's services and providing contact information. The site will cater to both desktop and mobile users, ensuring a seamless browsing experience.
 
-Django Framework
+Framework: Django
 
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 Built by experienced developers, it takes care of much of the hassle of Web development
@@ -14,4 +16,5 @@ The "Category" has 4 categories: Financial Services, Property, Recruitment.
 And also we can create a subcategory, for example:
 <img width="1440" alt="Screenshot 2024-06-04 at 00 58 22" src="https://github.com/Ibrmva/germany-project/assets/90143818/690e6ca8-0616-4e5a-bb5f-153af325b198">
 
+Result for subcategory
 <img width="1061" alt="Screenshot 2024-06-04 at 01 05 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/581d3e56-ba89-4b0c-bf84-3c666638b132">
