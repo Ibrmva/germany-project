@@ -11,6 +11,10 @@ Built by experienced developers, it takes care of much of the hassle of Web deve
 
 <img width="1440" alt="Screenshot 2024-06-04 at 00 50 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/31b2374a-7177-4ed9-ba5b-09fde7182a53">
 
+**You can registrate users** 
+
+<img width="1440" alt="Screenshot 2024-06-04 at 01 19 45" src="https://github.com/Ibrmva/germany-project/assets/90143818/70c37928-e750-4577-9fe5-f4b65c5c8b76">
+
 **The "Category" has 4 categories: Financial Services, Property, Recruitment.**
 
 <img width="1440" alt="Screenshot 2024-06-04 at 01 01 34" src="https://github.com/Ibrmva/germany-project/assets/90143818/ecb08027-d751-4a27-8806-b0c31e3e438d">
@@ -23,7 +27,7 @@ Built by experienced developers, it takes care of much of the hassle of Web deve
 
 <img width="1061" alt="Screenshot 2024-06-04 at 01 05 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/581d3e56-ba89-4b0c-bf84-3c666638b132">
 
-### **The "document_upload" for upload any documents. You should write: name, email, position and you should upload your file. Also for position you should choose the type: remote or offline**. And you can change the name document
+### **The "document_upload" for upload any documents. You should write: name, email, position and you should upload your file. Also for position you should choose the type: remote or offline**. And you can change the name document**
 <img width="1440" alt="Screenshot 2024-06-04 at 01 12 12" src="https://github.com/Ibrmva/germany-project/assets/90143818/d932fc8f-bfaf-4a09-af12-755ba41f33c8">
 
 <img width="663" alt="Screenshot 2024-06-04 at 01 17 48" src="https://github.com/Ibrmva/germany-project/assets/90143818/4630c9d2-da91-47e7-a253-f7a16604e8e5">
