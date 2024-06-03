@@ -11,5 +11,5 @@ I used a template for admin panel. The admin panel has: account, authentication 
 The "Category" has 4 categories: Financial Services, Property, Recruitment.
 <img width="1440" alt="Screenshot 2024-06-04 at 01 01 34" src="https://github.com/Ibrmva/germany-project/assets/90143818/ecb08027-d751-4a27-8806-b0c31e3e438d">
 
-
+And also we can create a subcategory, for example:
 <img width="1440" alt="Screenshot 2024-06-04 at 00 58 22" src="https://github.com/Ibrmva/germany-project/assets/90143818/690e6ca8-0616-4e5a-bb5f-153af325b198">
