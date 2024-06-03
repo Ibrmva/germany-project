@@ -22,3 +22,10 @@ Built by experienced developers, it takes care of much of the hassle of Web deve
 ### **Result for subcategory**
 
 <img width="1061" alt="Screenshot 2024-06-04 at 01 05 40" src="https://github.com/Ibrmva/germany-project/assets/90143818/581d3e56-ba89-4b0c-bf84-3c666638b132">
+
+### **The "document_upload" for upload any documents. You should write: name, email, position and you should upload your file. Also for position you should choose the type: remote or offline**. And you can change the name document
+<img width="1440" alt="Screenshot 2024-06-04 at 01 12 12" src="https://github.com/Ibrmva/germany-project/assets/90143818/d932fc8f-bfaf-4a09-af12-755ba41f33c8">
+
+<img width="663" alt="Screenshot 2024-06-04 at 01 17 48" src="https://github.com/Ibrmva/germany-project/assets/90143818/4630c9d2-da91-47e7-a253-f7a16604e8e5">
+
+<img width="1141" alt="Screenshot 2024-06-04 at 01 18 53" src="https://github.com/Ibrmva/germany-project/assets/90143818/6ff12db4-e622-4c03-b329-387d9c504e68">
